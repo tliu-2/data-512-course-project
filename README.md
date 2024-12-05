@@ -67,8 +67,8 @@ data-512-course-project
 │   └── usgs_rochester_impact_per_year_1800miles.csv
 ├── docs
 ├── ├── Part 1 - Common Analysis Visualizations and Reflection.pdf
-│   ├── Part 2 - Extension Plan.docx
-│   └── Part 4 - Report.docx
+│   ├── Part 2 - Extension Plan.pdf
+│   └── Part 4 - Report.pdf
 ├── LICENSE
 ├── README.md
 ├── Part 1 - Common Analysis.ipynb
